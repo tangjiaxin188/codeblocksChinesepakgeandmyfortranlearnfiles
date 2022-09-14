@@ -1,1 +1,1 @@
-# codeblocksChinesepakgeandmyfortranlearnfiles
+# 为了方便自己使用codeblocks和Fortran而创建
